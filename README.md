@@ -1,6 +1,6 @@
 ### Hello Sublime 3或2 Users
 
-我使用的操作系统是 Mac (目前是 Yosemite)，不同的操作系统，在 sublime
+我使用的操作系统是 window7,因为是forked自happypeter，他用的是 Yosemite，不同的操作系统，在 sublime
 配置上会有微小的差别。
 
 我使用 [Package
@@ -16,7 +16,7 @@ Control.sublime-settings 文件](https://github.com/happypeter/sublime-config/bl
 
 ```console
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-git clone git@github.com:happypeter/sublime-config.git
+git clone git@github.com:happyHou/sublime-config.git
 mv sublime-config/* .
 rm -rf sublime-config
 ```
