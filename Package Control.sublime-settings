@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CSS3",
 		"Emmet",
 		"Git",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
+		"SFTP",
 		"SublimeERB",
 		"SyncedSideBar"
 	]
