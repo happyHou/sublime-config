@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    { "keys": ["ctrl+shift+l"],  "command": "reindent","args": {"single_line": false} }
+]
